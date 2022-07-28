@@ -1,6 +1,6 @@
 export const SITE = {
-	title: 'Documentation',
-	description: 'Your website description.',
+	title: 'Viltima',
+	description: 'Welcome to the Viltima Website',
 	defaultLanguage: 'en_US',
 };
 
@@ -19,28 +19,28 @@ export const KNOWN_LANGUAGES = {
 };
 
 // Uncomment this to add an "Edit this page" button to every page of documentation.
-// export const GITHUB_EDIT_URL = `https://github.com/withastro/astro/blob/main/docs/`;
+   export const GITHUB_EDIT_URL = `https://github.com/viltima/webana`;
 
 // Uncomment this to add an "Join our Community" button to every page of documentation.
-// export const COMMUNITY_INVITE_URL = `https://astro.build/chat`;
+   export const COMMUNITY_INVITE_URL = `https://github.com/viltima/webana`;
 
 // Uncomment this to enable site search.
 // See "Algolia" section of the README for more information.
-// export const ALGOLIA = {
-//   indexName: 'XXXXXXXXXX',
-//   appId: 'XXXXXXXXXX',
-//   apiKey: 'XXXXXXXXXX',
-// }
+export const ALGOLIA = {
+  indexName: 'XXXXXXXXXX',
+  appId: 'XXXXXXXXXX',
+  apiKey: 'XXXXXXXXXX',
+}
 
 export const SIDEBAR = {
 	en: [
 		{ text: '', header: true },
-		{ text: 'Section Header', header: true },
+		{ text: 'Application', header: true },
 		{ text: 'Introduction', link: 'en/introduction' },
 		{ text: 'Page 2', link: 'en/page-2' },
 		{ text: 'Page 3', link: 'en/page-3' },
 
-		{ text: 'Another Section', header: true },
+		{ text: 'Developers', header: true },
 		{ text: 'Page 4', link: 'en/page-4' },
 	],
 };

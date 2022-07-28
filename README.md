@@ -1,8 +1,5 @@
-# Astro Starter Kit: Docs Site
-
-```bash
-npm init astro -- --template docs
-```
+# Webana
+The Documentation and Website from [Viltima](https://github.com/viltima)
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/docs)
 
