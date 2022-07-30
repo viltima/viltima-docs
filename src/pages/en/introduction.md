@@ -4,23 +4,54 @@ description: Docs intro
 layout: ../../layouts/MainLayout.astro
 ---
 
-**Welcome to Astro!**
+**Welcome to Viltima!**
 
-This is the `docs` starter template. It contains all of the features that you need to build a Markdown-powered documentation site, including:
+Viltima is the perfect solution for your chatting problems.
 
-- ✅ **Full Markdown support**
-- ✅ **Responsive mobile-friendly design**
-- ✅ **Sidebar navigation**
-- ✅ **Search (powered by Algolia)**
-- ✅ **Multi-language i18n**
-- ✅ **Automatic table of contents**
-- ✅ **Automatic list of contributors**
-- ✅ (and, best of all) **dark mode**
+Here is why: 
+
+- ✅ **Full Cross-Platform support**
+- ✅ **Responsive mobile-/ web friendly design**
+- ✅ **dark + light mode support**
+- ✅ **Communicate anonymously** 
+- ✅ **Fully Open source**
+
 
 ## Getting Started
+Depending what platform you are using, the installation process can be a bit different. 
 
-To get started with this theme, check out the `README.md` in your new project directory. It provides documentation on how to use and customize this template for your own project. Keep the README around so that you can always refer back to it as you build.
+- Choose your platform, create an account and use it everywhere.
+- Cross-Platform means you can communicate from any device/brand to the other one, whereever it is. 
 
-Found a missing feature that you can't live without? Please suggest it on Discord [(#ideas-and-suggestions channel)](https://astro.build/chat) and even consider adding it yourself on GitHub! Astro is an open source project and contributions from developers like you are how we grow!
+#### iOS
+[Installation instruction]()
 
-Good luck out there, Astronaut. 🧑‍🚀
+<hr> 
+
+#### Android 
+[Installation instruction]()
+<hr>
+
+#### Web 
+N/A
+
+<hr>
+
+## Troubleshooting
+
+- Running into issues? 
+
+Check our Mobile / Desktop + Web category to know how to solve common issues/errors with any device. 
+
+## Support
+
+Want to support our hard work? 
+
+- [Donations through PayPal]()
+
+- [Donations through Ko-fi]()
+
+- [Star us on GitHub]()
+
+- [Join our Community]()
+
