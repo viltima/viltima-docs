@@ -41,6 +41,6 @@ export const SIDEBAR = {
 		{ text: 'Web/Desktop', link: 'en/page-3' },
 
 		{ text: 'Developers', header: true },
-		{ text: 'APi', link: 'en/page-4' },
+		{ text: 'Contribute', link: 'en/page-4' },
 	],
 };
